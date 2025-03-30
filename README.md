@@ -11,6 +11,9 @@
    - Performed *CRUD (Create, Read, Update, Delete)* in MySQL Workbench.  
 
 4. *Visualizations*  
-   - Built *donut, bar, and line charts* to analyze *App Usage, Battery Drain, and Data Consumption*.  
+   - Built *donut, bar, and line charts* to analyze *App Usage, Battery Drain, and Data Consumption*.
+
+5. *DAX Operations*
+   - Used Various Dax operations on the data like ADDCOLUMN,SELECTCOLUMNS,SUMMARIZE.
 
 Link of screenshots - https://drive.google.com/drive/folders/1oYBfXc3Tj9K7PtthPJ6CXl0gfQW-3Q-8?usp=drive_link
